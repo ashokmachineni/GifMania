@@ -13,9 +13,15 @@ input {
 }
 
 .titles {
-    color: brown;
+    color: #ef350d;
     text-align: center;
     font-weight: bold;
+    font-weight: 800;
+    font-size: 3.8em;
+    text-transform: uppercase;
+    line-height: 1em;
+    font-family: "Piedra", cursive;
+    text-shadow: 4px 4px 4px #000000;
 }
 
 .card-grid {
