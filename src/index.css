@@ -14,8 +14,8 @@ input {
 
 .card-grid {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
+    align-items: flex-start;
 }
 
 .card {
@@ -29,7 +29,7 @@ input {
 
 .card p {
     padding: 5px;
-    text-align: center;
+    text-align: start;
 }
 
 .card img {
