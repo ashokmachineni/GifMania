@@ -7,7 +7,7 @@ function GitExpert(props) {
   //const handleAdd = () => {}
   return (
     <>
-      <h1 className="animate__animated animate__bounceInUp animate__delay-1s">
+      <h1 className="titles animate__animated animate__bounceInLeft animate__delay-1s">
         GIF Mania
       </h1>
       <AddCategory setCategories={setCategories} />

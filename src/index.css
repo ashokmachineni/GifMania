@@ -12,6 +12,12 @@ input {
     color: gray;
 }
 
+.titles {
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+}
+
 .card-grid {
     display: flex;
     flex-wrap: wrap;
